@@ -1,0 +1,1 @@
+y -= vel;//Fazendo com q a raquete se mova pra cima apertando "W".

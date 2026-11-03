@@ -1,0 +1,1 @@
+//Impede que a raquete saia verticalmente da tela.
